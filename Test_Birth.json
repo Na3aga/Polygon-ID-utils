@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "testBirthSchema",
         "uris": {
-            "jsonLdContext": "ipfs://Qma2W8zfBRjQfWcaG3zQN1GsCbiFmYhKyKik5bS94mvAw2"
+            "jsonLdContext": "https://raw.githubusercontent.com/Na3aga/Polygon-ID-utils/main/Test_Birth.jsonld"
         },
         "version": "1.0.0"
     },

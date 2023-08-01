@@ -114,7 +114,7 @@
                 "birthday": {
                     "description": "Date of birth in YYYmmDD integer format",
                     "title": "birthday",
-                    "type": "number"
+                    "type": "integer"
                 },
                 "surname": {
                     "description": "Second name (Surname)",

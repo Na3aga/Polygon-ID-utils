@@ -27,7 +27,7 @@
                         "@type": "xsd:string"
                     }
                 },
-                "@id": "https://raw.githubusercontent.com/Na3aga/Polygon-ID-utils/main/bankKYC/Demo_Bank_KYC.jsonld#BankDemoKYC"
+                "@id": "https://raw.githubusercontent.com/Na3aga/Polygon-ID-utils/main/bankKYC/BankKYC.json-ld#BankDemoKYC"
             }
         }
     ]

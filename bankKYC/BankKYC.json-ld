@@ -1,0 +1,34 @@
+{
+    "@context": [
+        {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "BankDemoKYC": {
+                "@context": {
+                    "@protected": true,
+                    "kyc-vocab": "https://github.com/Na3aga/Polygon-ID-utils/blob/main/bankKYC/bank_kyc_vocab.md#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "passport": {
+                        "@id": "kyc-vocab:passport",
+                        "@type": "xsd:string"
+                    },
+                    "birthday": {
+                        "@id": "kyc-vocab:birthday",
+                        "@type": "xsd:double"
+                    },
+                    "surname": {
+                        "@id": "kyc-vocab:surname",
+                        "@type": "xsd:string"
+                    },
+                    "firstname": {
+                        "@id": "kyc-vocab:firstname",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "https://raw.githubusercontent.com/Na3aga/Polygon-ID-utils/main/bankKYC/Demo_Bank_KYC.jsonld#BankDemoKYC"
+            }
+        }
+    ]
+}

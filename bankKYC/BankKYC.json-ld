@@ -16,7 +16,7 @@
                     },
                     "birthday": {
                         "@id": "kyc-vocab:birthday",
-                        "@type": "xsd:double"
+                        "@type": "xsd:integer"
                     },
                     "surname": {
                         "@id": "kyc-vocab:surname",

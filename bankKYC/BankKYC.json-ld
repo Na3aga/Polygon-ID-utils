@@ -7,6 +7,7 @@
             "type": "@type",
             "BankDemoKYC": {
                 "@context": {
+                    "@version": 1.1,
                     "@protected": true,
                     "kyc-vocab": "https://github.com/Na3aga/Polygon-ID-utils/blob/main/bankKYC/bank_kyc_vocab.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",

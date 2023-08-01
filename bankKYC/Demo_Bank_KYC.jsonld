@@ -9,26 +9,26 @@
                 "@context": {
                     "@propagate": true,
                     "@protected": true,
-                    "polygon-vocab": "urn:uuid:47633ea7-71d1-461e-b632-379b7e306c00#",
+                    "kyc-vocab": "https://github.com/Na3aga/Polygon-ID-utils/blob/main/bankKYC/bank_kyc_vocab.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "passport": {
-                        "@id": "polygon-vocab:passport",
+                        "@id": "kyc-vocab:passport",
                         "@type": "xsd:string"
                     },
                     "birthday": {
-                        "@id": "polygon-vocab:birthday",
+                        "@id": "kyc-vocab:birthday",
                         "@type": "xsd:double"
                     },
                     "surname": {
-                        "@id": "polygon-vocab:surname",
+                        "@id": "kyc-vocab:surname",
                         "@type": "xsd:string"
                     },
                     "firstname": {
-                        "@id": "polygon-vocab:firstname",
+                        "@id": "kyc-vocab:firstname",
                         "@type": "xsd:string"
                     }
                 },
-                "@id": "urn:uuid:34e2faf0-067b-4dba-adad-09b9b986d826"
+                "@id": "https://raw.githubusercontent.com/Na3aga/Polygon-ID-utils/main/bankKYC/Demo_Bank_KYC.jsonld#BankDemoKYC"
             }
         }
     ]

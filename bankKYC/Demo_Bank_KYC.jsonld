@@ -1,0 +1,35 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "BankDemoKYC": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:47633ea7-71d1-461e-b632-379b7e306c00#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "passport": {
+                        "@id": "polygon-vocab:passport",
+                        "@type": "xsd:string"
+                    },
+                    "birthday": {
+                        "@id": "polygon-vocab:birthday",
+                        "@type": "xsd:double"
+                    },
+                    "surname": {
+                        "@id": "polygon-vocab:surname",
+                        "@type": "xsd:string"
+                    },
+                    "firstname": {
+                        "@id": "polygon-vocab:firstname",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:34e2faf0-067b-4dba-adad-09b9b986d826"
+            }
+        }
+    ]
+}

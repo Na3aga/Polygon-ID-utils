@@ -1,7 +1,8 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://example.com/path/to/file/context.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/Na3aga/Polygon-ID-utils/main/bankKYC/Demo_Bank_KYC.jsonld",
+            "jsonSchema": "https://raw.githubusercontent.com/Na3aga/Polygon-ID-utils/main/bankKYC/Demo_Bank_KYC.json"
         },
         "type": "BankDemoKYC",
         "version": "1.0"
